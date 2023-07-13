@@ -1,0 +1,24 @@
+h2 {
+  font-size: 40px;
+}
+body {
+  text-align: center;
+  margin-top: 80px;
+  border-radius: 5px;
+  padding: 26px;
+  background-color: bisque;
+}
+input {
+  background-color: orange;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+}
+.space {
+  height: 40px;
+  width: 180px;
+}
+#clear {
+  width: 150px;
+  height: 40px;
+}
